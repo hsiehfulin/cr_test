@@ -1,0 +1,13 @@
+name: cr_test
+version: 0.1.0
+
+authors:
+  - hsiehfulin <hsiehfulin@gmail.com>
+
+targets:
+  cr_test:
+    main: src/cr_test.cr
+
+crystal: 0.22.0
+
+license: MIT
