@@ -2,7 +2,7 @@ require "./cr_test/*"
 
 module CrTest
   # TODO Put your code here
-  def test1()
-  	"abc"
+  def self.test1()
+  	"abcd"
   end
 end
